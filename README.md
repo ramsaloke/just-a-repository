@@ -1,2 +1,2 @@
 # just-a-repository
-learning git and git hub
+learning git and git hub.
